@@ -1,1 +1,2 @@
-[![higurashi-takuto's github stats](https://github-readme-stats.vercel.app/api?username=higurashi-takuto)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higurashi-takuto&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+[![higurashi-takuto's github stats](https://github-readme-stats.vercel.app/api?username=higurashi-takuto)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higurashi-takuto&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
