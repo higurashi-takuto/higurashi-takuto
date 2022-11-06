@@ -1,2 +1,32 @@
-[![higurashi-takuto's github stats](https://github-readme-stats.vercel.app/api?username=higurashi-takuto)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higurashi-takuto&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+[Portfolio](https://hgrs.me/)
+
+## About
+- 日暮拓人（Higurashi Takuto）
+- にっぽり（[@nippori30](https://twitter.com/nippori30)）
+
+Web / Software / Font Developer
+
+## Careers
+- Web Engineer@[freee](https://corp.freee.co.jp) / 2021.04–
+- Type Engineer(Intern)@[Type Project](https://typeproject.com) / 2018.06–2021.03
+
+## Skills
+- TypeScript / JavaScript
+    - Next.js / React
+    - Vue
+- Ruby
+    - Ruby on Rails 
+- Python
+    - Flask
+- HTML / CSS
+    - Tailwind CSS
+    - daisyUI
+- Databases
+    - Firastore
+    - MongoDB
+    - MySQL
+- Design
+    - Figma
+    - Illustrator
+    - Affinity
+    - Glyphs
